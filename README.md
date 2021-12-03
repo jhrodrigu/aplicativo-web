@@ -1,4 +1,4 @@
-# vue-forms
+# vue frameword
 
 ## Project setup
 ```
